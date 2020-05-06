@@ -19,7 +19,7 @@ $ cp complete_test.launch complete_test.launch.bkup
 $ vim complete_test.launch
 ```
 
-4. In this launch file, replace the generic world directory with the one from NAO robot demo:
+4. In this launch file, replace the world directory with the one from NAO robot demo:
 
 ```
 <arg name="world" value="/usr/local/webots/projects/robots/softbank/nao/worlds/nao_demo.wbt"/>
