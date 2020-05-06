@@ -11,7 +11,7 @@
 $ sudo apt-get install ros-melodic-webots-ros
 ```
 
-3. Modify one of the demo files:
+3. Modify one of the launch files from webots_ros package:
 
 ```
 $ cd /opt/ros/melodic/share/webots_ros/launch/
