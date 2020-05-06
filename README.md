@@ -39,7 +39,7 @@ $ cp (nao_demo_python.py - the one from this repo) nao_demo_python.py
 $ roslaunch webots_ros complete_test.launch
 ```
 
-7. On the left side of the simulator, you will see some details about the Webots world file. Among those information, there will be details about the robot. Select NAO and, then, controller. Switch the controller to nao_demo_python.
+7. On the left side of the simulator, you will see some details about the Webots world file. Among those information, there will be also details about the robot. Select NAO and, then, controller. Switch the controller to nao_demo_python.
 
 8. Now, you have the robot running a simple generic code integrated with ROS. 
 
