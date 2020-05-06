@@ -8,7 +8,7 @@
 2. Install webots_ros by using the command:
 
 ```
-$ sudo apt-get install ros-melodic-webots-ros)
+$ sudo apt-get install ros-melodic-webots-ros
 ```
 
 3. Modify one of the demo files:
