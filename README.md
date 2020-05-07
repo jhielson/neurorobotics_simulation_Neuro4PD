@@ -1,6 +1,6 @@
 # Neurorobotics-Computational-Environment
 
-## ROS + NAO Robot
+## Webots + NAO Robot + ROS
 
 (I will build a package that will put everything together later. Meanwhile, the following instructions allow you to operate NAO on Webots.)
 
