@@ -33,14 +33,20 @@ $ cp nao_demo_python.py nao_demo_python.py.bkup
 $ cp (nao_demo_python.py - the one from this repo) nao_demo_python.py
 ```
 
-6. Launch the simulation:
+6. Make sure you have set the `WEBOTS_HOME`enviornment variable. You may want to put this somewhere that ensures it will be set for each session.
+
+```
+$ export WEBOTS_HOME=/usr/local/webots
+```
+
+7. Launch the simulation:
 
 ```
 $ roslaunch webots_ros complete_test.launch
 ```
 
-7. On the left side of the simulator, you will see some details of the world file. Among those information, there will be the robot description. Select NAO and, then, controller. Switch the controller to nao_demo_python.
+8. On the left side of the simulator, you will see some details of the world file. Among those information, there will be the robot description. Select NAO and, then, controller. Switch the controller to nao_demo_python.
 
-8. Now, you have the robot running a simple generic code integrated with ROS. 
+9. Now, you have the robot running a simple generic code integrated with ROS. 
 
 
